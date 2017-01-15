@@ -1,0 +1,17 @@
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.exe.config
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.exe
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.pdb
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.Form1.resources
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.exe
+d:\documents\visual studio 2013\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.pdb
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.exe.config
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.exe
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.pdb
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.exe
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\bin\Release\ConvertMifareUID.pdb
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\ConvertMifareUID\ConvertMifareUID\obj\Release\ConvertMifareUID.csproj.GenerateResource.Cache
